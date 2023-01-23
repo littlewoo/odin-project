@@ -1,0 +1,19 @@
+
+body {
+    background-color: #ddd0c0;
+    font-family: Garamond, sans-serif;
+}
+
+.title {
+    font-family: Hack, Arial, sans-serif; 
+}
+
+.dish-img {
+    size: 40%;
+    margin-left: 5%;
+}
+
+.section-heading {
+    font-size: 18px;
+}
+
